@@ -1,5 +1,6 @@
 [pr_description]
 publish_labels = true
+enable_help_text = false
 
 [pr_code_suggestions]
 #extra_instructions = "(1) Answer in Japanese"
