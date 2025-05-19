@@ -1,2 +1,5 @@
+[pr_description]
+publish_labels = true
+
 [pr_code_suggestions]
-extra_instructions = "(1) Answer in Japanese"
+#extra_instructions = "(1) Answer in Japanese"
