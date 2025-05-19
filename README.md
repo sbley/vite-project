@@ -52,3 +52,11 @@ export default tseslint.config({
   },
 })
 ```
+
+## Running Unit Tests
+
+To run unit tests:
+
+```bash
+npm run test
+```
